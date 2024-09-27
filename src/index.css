@@ -5,8 +5,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  /* background-image: url('../images/money.jpg'); */
-  background-color: #E5E4E2;
+  background-image: url('../images/money.jpg');
+  background-color: #74e57f;
 }
 
 code {
